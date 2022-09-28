@@ -1,3 +1,4 @@
+PIL
 libraryArsein
 rubpy
 mutagen
